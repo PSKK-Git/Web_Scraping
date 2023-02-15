@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d655d979-2b09-48c5-94a9-84f9a4abdc68" name="Changes" comment="#to scrape data from a HTML file .">
+    <list default="true" id="d655d979-2b09-48c5-94a9-84f9a4abdc68" name="Changes" comment="commit-2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scraping_jobs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scraping_jobs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +35,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Scraping_jobs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="web_scraping_python_jobs" />
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676379597382</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit-2">
+      <created>1676379774976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676379774976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#to scrape data from a HTML file ." />
-    <option name="LAST_COMMIT_MESSAGE" value="#to scrape data from a HTML file ." />
+    <MESSAGE value="commit-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
